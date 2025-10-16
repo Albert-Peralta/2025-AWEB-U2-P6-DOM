@@ -7,3 +7,19 @@
     color: red;
 
 }
+
+body{
+    
+    text-align: center;
+}
+
+fieldset{
+    padding: 50% auto;
+    margin: 5% auto;
+    width: 50%;
+    background-color: azure;
+}
+
+button{
+    background-color: aquamarine;
+}
